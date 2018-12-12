@@ -7,7 +7,7 @@ public class ZgadnijLiczbę {
 
         int userWinner =6;
         Scanner scanner = new Scanner(System.in);
-        int userAnswer;
+        int userAnswer ;
         do{
             System.out.println("Podaj liczbę:");
             userAnswer= scanner.nextInt();
